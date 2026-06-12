@@ -1,0 +1,25 @@
+h1 {
+    color: green;
+	text-shadow: 1px 0px 10px navy;
+    border-bottom-style: dotted;
+
+}
+
+h2 {
+    margin: 5px;
+	font-family: cursive;
+	color:blue;
+	background:linear-gradient(to right, white, green);
+}
+a:link {
+  color: pink;
+  
+}
+
+a:visited {
+  color: blue;
+}
+
+h3 {
+    background:linear-gradient(to right, red);
+}
