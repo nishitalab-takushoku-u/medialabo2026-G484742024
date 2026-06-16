@@ -1,15 +1,15 @@
 h1 {
-    color: purple;
-    text-shadow: 1px 0px 10px red;
+    color: blue;
+    text-shadow: 1px 0px 10px green;
     border-bottom-style: dotted;
 
 }
 
 h2 {
-    color: redS;
+    color: red;
     margin: 10px;
 	font-family: cursive;
-	color:#3f3faf;
+	color:green;
 	background:linear-gradient(to right, white, green);
 }
 
@@ -17,15 +17,15 @@ h3 {
     margin: 10px;
 	font-family: cursive;
 	color:red;
-	background:linear-gradient(to right, white, yellow);
+	background:linear-gradient(to right, white, orange);
 }
 
 p {
-    color:brown;
+    color:black;
     border: 5px solid green;
     padding: 10px;
     margin: 1px;
     width: 650px;
     height: 25px;
-    background: white;
+    background: wheat;
 }
