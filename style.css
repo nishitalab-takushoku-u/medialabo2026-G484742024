@@ -1,24 +1,31 @@
 h1 {
-    color: green;
-	text-shadow: 1px 0px 10px navy;
-    border-bottom-style: dotted;
-
+    color: white;
+    background: linear-gradient(to right, navy, deepskyblue);
+    text-shadow: 3px 3px 6px black;
+    border-bottom: 4px solid skyblue;
 }
 
 h2 {
     margin: 5px;
-	font-family: cursive;
-	color:blue;
-	background:linear-gradient(to right, white, green);
+    font-family: cursive;
+    color: white;
+    background: linear-gradient(to right, navy, deepskyblue);
 }
+
 a:link {
-  color: pink;
+    color: blue;
 }
 
 a:visited {
-  color: blue;
+    color: purple;
 }
 
 h3 {
-    background:linear-gradient(to right, red);
+    color: white;
+    background: linear-gradient(to right, royalblue, deepskyblue);
+}
+
+p {
+    color: navy;
+    background: linear-gradient(to right, white, lightblue);
 }
