@@ -1,31 +1,39 @@
-h1 {
-    color: blue;
-    text-shadow: 1px 0px 10px green;
-    border-bottom-style: dotted;
+body {
+    background: white;
+    font-family: cursive;
+}
 
+h1 {
+    color: navy;
+    text-shadow: 2px 2px 5px skyblue;
+    border-bottom: 3px solid deepskyblue;
+    text-align: center;
 }
 
 h2 {
-    color: red;
+    color: white;
+    background: linear-gradient(to right, navy, deepskyblue);
     margin: 10px;
-	font-family: cursive;
-	color:green;
-	background:linear-gradient(to right, white, green);
+    padding: 10px;
 }
 
 h3 {
+    color: white;
+    background: linear-gradient(to right, orange, gold);
     margin: 10px;
-	font-family: cursive;
-	color:red;
-	background:linear-gradient(to right, white, orange);
+    padding: 10px;
 }
 
 p {
-    color:black;
-    border: 5px solid green;
-    padding: 10px;
-    margin: 1px;
-    width: 650px;
-    height: 25px;
+    color: black;
     background: wheat;
+    border: 2px solid green;
+    padding: 10px;
+    margin: 5px;
+    width: 650px;
+}
+
+img {
+    border: 2px solid gray;
+    margin: 10px;
 }
